@@ -139,7 +139,7 @@ h1 {
 #quoteHeader {
    margin-top: 50px;
 }
-#quoteContent {
+.contentQuote {
    margin-bottom: 50px;
 }
 .rowNext {
